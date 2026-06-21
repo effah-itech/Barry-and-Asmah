@@ -1,0 +1,16 @@
+{
+  "name": "barry-asmah-website",
+  "version": "1.0.0",
+  "description": "Barry & Asmah law firm website ready for Replit deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@replit/node-server": "latest"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
